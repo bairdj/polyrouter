@@ -10,7 +10,6 @@ import org.locationtech.jts.geom.*;
 
 import java.io.*;
 import java.net.MalformedURLException;
-import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 

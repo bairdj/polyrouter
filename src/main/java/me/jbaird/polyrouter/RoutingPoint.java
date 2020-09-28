@@ -1,7 +1,6 @@
 package me.jbaird.polyrouter;
 
 import org.locationtech.jts.geom.CoordinateXY;
-import org.locationtech.jts.geom.GeometryFactory;
 import org.locationtech.jts.geom.Point;
 
 import java.math.BigDecimal;

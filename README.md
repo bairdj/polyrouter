@@ -17,8 +17,14 @@ This will not consider depth or other marine routing considerations such as ship
 The primary intention is to give an approximate versus straight line distance.
 
 ## Examples
-Point Nepean, Victoria, Australia
+
+### Victoria, Australia
+Point Nepean
+
 ![Point Nepean](img/nepean.png)
 
-Phillip Island, Victoria, Australia
+Phillip Island
+
 ![Phillip Island](img/phillip_island.png)
+
+Source polygon: Extracted from Victorian Government open data

@@ -15,3 +15,10 @@ PolyRouter can read a polygon from a shapefile or from WKT.
 Consider adding a buffer on the shoreline to prevent points being too close to shore.
 This will not consider depth or other marine routing considerations such as shipping channels.
 The primary intention is to give an approximate versus straight line distance.
+
+## Examples
+Point Nepean, Victoria, Australia
+![Point Nepean](img/nepean.png)
+
+Phillip Island, Victoria, Australia
+![Phillip Island](img/phillip_island.png)
